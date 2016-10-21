@@ -1,2 +1,2 @@
 # silver-tribble
-Test Repository
+WWW Repository
