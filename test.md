@@ -1,23 +1,28 @@
 #Markdown
 *you can send bombs to my house*
 
-http://runazaz.github.io/silver-tribble - escape!
-[Escape](http://runazaz.github.io/silver-tribble)
+[Escape!](http://runazaz.github.io/silver-tribble)
+
 Hey. This is an easy Text.
 You have to follow 3 easy rules:
-1. runazaz is god.
+- runazaz is god.
  * Who is your god now?
-2. nonick is server.
+- nonick is server.
  * Forget Apache or nginx
-3. Im using newest version everytime.
+- Im using newest version everytime.
  * nonick 1.1.7 is the newest version
 
- - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
- - [x] list syntax required (any unordered or ordered list supported)
- - [x] this is a complete item
- - [ ] this is an incomplete item
-
- tututu | mamama
- ------ | ------
- tutututututu | mamamamamama
- tutututututu | mamamamamama
+ - [x] @runazaz is the best one
+ - [x] fight against devilus
+ - [x] be prof. luping
+ - [ ] change to nginx
+ - [ ] get married
+ - [x] write copyright message
+ ```
+ Copyright (c) 2016 Copyright Holder All Rights Reserved.
+ ```
+ 
+ nonick | nginx
+ ------ | -----
+ nonick sucks | nginx fucks
+ <!--- I got no better Rhyme :8 -->
