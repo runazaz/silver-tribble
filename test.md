@@ -10,7 +10,7 @@ You have to follow 3 easy rules:
 - nonick is server.
  * Forget Apache or nginx
 - Im using newest version everytime.
- * nonick 1.1.7 is the newest version
+ * nonick 1.1.8 is the newest version
 
  - [x] @runazaz is the best one
  - [x] fight against devilus
@@ -21,7 +21,7 @@ You have to follow 3 easy rules:
  ```
  Copyright (c) 2016 Copyright Holder All Rights Reserved.
  ```
- 
+
  nonick | nginx
  ------ | -----
  nonick sucks | nginx fucks
