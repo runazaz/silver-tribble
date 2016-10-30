@@ -1,1 +1,0 @@
-Dies ist ein Test in Deutsch. Ich versuche GitHub gerade von meinem Terminal aus. Aber unter einem Client wär es einfacher
